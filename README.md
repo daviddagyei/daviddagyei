@@ -1,15 +1,14 @@
 # Hi, I'm **David Agyei** 👋  
 *Software-Engineering & Machine-Learning Enthusiast · B.S. CS & Applied Math @ UChicago ’27*
 
-I turn messy real-world workflows into **secure, observable cloud services** and build **ML-powered apps** that make data actionable.  
-Always learning, always shipping—let’s build something awesome together!
+I’m an aspiring **Software Engineer** and **Machine Learning** enthusiast dedicated to building scalable, data-driven applications. I love translating research ideas into production-ready code and continuously refining models and systems for real-world impact.
 
 ---
 
 ## 🚀 About Me
 - 🎯 **Focus:** Serverless backend engineering, data pipelines, and practical machine-learning applications.  
 - 🛠 **Project-Driven:** From Slack-to-Drive ingestion pipelines to AI-powered typing games, I enjoy shipping products end-to-end.  
-- 🤝 **Collaboration:** Open to teaming up on OSS, research, or hackathon ideas—feel free to reach out!
+- 🤝 **Collaboration:** Open to teaming up on OSS, research, or hackathon ideas. Please feel free to reach out!
 
 ---
 
@@ -39,7 +38,7 @@ Always learning, always shipping—let’s build something awesome together!
 - **University of Chicago** — B.S. Computer Science & Applied Mathematics (’27)  
   • *Harper Award* recipient, Spring 2024  
 - Member, **National Society of Black Engineers**  
-- Participant, **Quantum Business, Innovation & Technology** Club
+- Member, **Quantum Business, Innovation & Technology** Club
 
 ---
 
