@@ -1,68 +1,51 @@
-# Hi, I’m **David Agyei** 👋  
-_UChicago ’27  •  Computer Science & Applied Math_
+# Hi, I'm **David Agyei** 👋  
+*Software-Engineering & Machine-Learning Enthusiast · B.S. CS & Applied Math @ UChicago ’27*
 
-Turning back-office spreadsheets, market data, and messy APIs into reproducible, observable cloud services & trading tools.
-
----
-
-## 🧭 Quick Facts
-- 🎯 **Focus:** Serverless data pipelines • Real-time dashboards • Quantitative trading research  
-- 🏆 **Harper Award** (Spring 2024) for academic excellence  
-- 🤝 Member — National Society of Black Engineers • Quantum Business, Innovation & Tech  
-- 💬 Always up for pairing on a bug, white-boarding a new idea, or talking markets.
+I turn messy real-world workflows into **secure, observable cloud services** and build **ML-powered apps** that make data actionable.  
+Always learning, always shipping—let’s build something awesome together!
 
 ---
 
-## 🛠 Core Stack
-
-| **Languages** | Python · JavaScript/TypeScript · Java · C | SQL |
-|---------------|-------------------------------------------|-----|
-| **Data & ML** | pandas · NumPy · openpyxl · scikit-learn | TensorFlow |
-| **Cloud / DevOps** | AWS (Lambda | APIGW | S3 | Step Fns | CloudWatch | Secrets Mgr) · Terraform · Docker · GitHub Actions · Supabase · Firebase |
-| **Frameworks / UI** | Flask · Streamlit · Plotly · Chart.js · Chrome Extension APIs |
-| **Focus Areas** | Serverless architecture · CI/CD · API & micro-services · Data engineering & analytics · Security & audit logging · Generative-AI prompt integration · Algorithmic pattern detection |
+## 🚀 About Me
+- 🎯 **Focus:** Serverless backend engineering, data pipelines, and practical machine-learning applications.  
+- 🛠 **Project-Driven:** From Slack-to-Drive ingestion pipelines to AI-powered typing games, I enjoy shipping products end-to-end.  
+- 🤝 **Collaboration:** Open to teaming up on OSS, research, or hackathon ideas—feel free to reach out!
 
 ---
 
-## 🚀 Featured Projects
+## 🧰 Skills & Tech
 
-| Project | What it does | Impact |
-|---------|--------------|--------|
-| **Pattern-Detection App** | Detects Head-&-Shoulders, Double Top/Bottom, Wedge patterns on OHLC data using matrix-profile motifs & extrema clustering | ↑ back-test precision **68 → 87 %** on **1 M+** bars |
-| **Key-Management System** | Tracks **3 k+** physical keys with live audit trails & layered Excel-to-DB backend | ↓ manual tracking **90 %** · 4× faster incident RCA |
-| **Timely Tab (Chrome Extension)** | Multi-mode typing game with Mistral-powered prompts & cross-device leaderboards | Beta: **15** installs · **6 min** avg session |
-
-*(Pinned repositories below contain code, docs & install guides.)*
+| **Languages** | Python (advanced) · JavaScript/TypeScript · Java · C/C++ · SQL · HTML/CSS |
+|---------------|----------------------------------------------------------------------------|
+| **Frameworks / Tools** | Flask · Streamlit · AWS (Lambda · APIGW · S3 · Step Fn · CloudWatch · Secrets Mgr) · Terraform · Docker · Supabase · Firebase (Auth/Firestore) · Git/GitHub Actions · Airflow · pandas/NumPy · Plotly · openpyxl |
+| **ML / Data** | scikit-learn · TensorFlow/Keras · matrix-profile motif discovery · data visualization |
+| **Focus Areas** | Serverless architecture & CI/CD · API & micro-services · Data engineering & real-time dashboards · Security & audit logging · Generative-AI prompt integration |
 
 ---
 
-## 💼 Experience
+## 📂 Highlighted Projects
 
-| Period | Role & Org | Highlights |
-|--------|------------|------------|
-| **Jun 2024 – Aug 2024** | **Software Engineering Intern** — Play Smart Literacy (Remote) | • Serverless Slack → Drive pipeline **(99.9 % accuracy)**<br>• IaC with Terraform + CI/CD; MTTR **15 min → 90 s** |
-| **Jun 2024 – Present** | **Software Dev / Admin Assistant** — UChicago Housing & Residence Life | • Python micro-service allocates **2 k+** housing requests in **< 60 s**<br>• Streamlit dashboard cuts planning time **30 %** |
+| Project | 1-liner & Impact | Stack |
+|---------|-----------------|-------|
+| **Pattern-Detection App** | Detects chart patterns (H&S, Double Top/Bottom, Wedge) & ↑ back-test precision **68 → 87 %** on **1 M+** bars | Python · Streamlit · NumPy |
+| **Key-Management System** | Tracks **3 k+** physical keys, cuts manual logs **90 %**, 4× faster incident RCA | Flask · Supabase · openpyxl |
+| **Timely Tab (Chrome Extension)** | AI-driven typing game (beta **15 installs**, 6 min avg session) | JS/Canvas · Firebase · Mistral API |
 
----
-
-## 📚 Learning & Research
-
-Currently experimenting with:
-- **Vector databases** for low-latency similarity search in market regime detection  
-- **LlamaIndex & Mistral-7B** for contextual trade-idea generation  
-- **Kubernetes** on GKE for bursty back-testing workloads
+> See pinned repos for code & docs.
 
 ---
 
-## 📂 Portfolio & Résumé
-- 🌐 **Website:** <https://davidagyei.netlify.app/>  
-- 📄 **Résumé (PDF):** [Download](https://davidagyei.netlify.app/resume.pdf)
+## 🎓 Education & Activities
+- **University of Chicago** — B.S. Computer Science & Applied Mathematics (’27)  
+  • *Harper Award* recipient, Spring 2024  
+- Member, **National Society of Black Engineers**  
+- Participant, **Quantum Business, Innovation & Technology** Club
 
 ---
 
-## 🤝 Let’s Connect
-- 📬 **Email:** dagyei@uchicago.edu  
-- 💼 **LinkedIn:** <https://www.linkedin.com/in/daviddagyei>  
-- 🚀 **Contact Form:** <https://davidagyei.netlify.app/#contact>
+## 📫 Let’s Connect
+- 🌐 Portfolio: [davidagyei.netlify.app](https://davidagyei.netlify.app/)  
+- 💌 Email: dagyei@uchicago.edu  
+- 🧑‍💼 LinkedIn: [linkedin.com/in/daviddagyei](https://www.linkedin.com/in/daviddagyei)
 
-
+*Thanks for stopping by—drop me a line if you want to collaborate on ML, cloud, or anything in between!*
